@@ -5,7 +5,7 @@ DIYElectronics version of the Prusa i3 https://diyelectronics.co.za
 Based on the Original Prusa i3, the DIYElectronics Prusa i3 is a 3D printer project maintained by DIYElectronics.co.za
 Originates in RepRap project.
 
-This repository contains Sfiles and STLs of the printed parts.
+This repository contains files and STLs of the printed parts.
 
 **Links**
 
